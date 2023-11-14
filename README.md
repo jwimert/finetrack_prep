@@ -4,7 +4,7 @@ Routine to read an ATL03 file and output calibration data and expected waveform 
 Output h5 file (atl03_calibrations_and_wf_tables.h5) is to be used as input when computing fine_track heights using python fine_track routine, which requires expected waveform distributions and CAL19 data.
 
 Data contained within atl03_calibrations_and_wf_tables.h5:
-
+- atl03_filename
 -atl03_filename
 -orientation
 -CAL19/
