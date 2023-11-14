@@ -22,3 +22,10 @@ Data contained within atl03_calibrations_and_wf_tables.h5:
 --dead_time
 --strong_weak
 --wf_table_select
+
+
+Sample execution:
+
+python finetrack_prep.py -g1 ATL03_20220726163210_05311604_006_02.h5
+
+
