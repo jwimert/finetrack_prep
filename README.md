@@ -28,3 +28,4 @@ Sample execution:
 python finetrack_prep.py -g1 ATL03_20220726163210_05311604_006_02.h5
 
 
+<img width="502" alt="image" src="https://github.com/jwimert/finetrack_prep/assets/61554992/010c5c96-79d8-4d6e-94ca-0eec8fe6586f">
