@@ -5,23 +5,22 @@ Output h5 file (atl03_calibrations_and_wf_tables.h5) is to be used as input when
 
 Data contained within atl03_calibrations_and_wf_tables.h5:
 - atl03_filename
--atl03_filename
--orientation
--CAL19/
---dead_time
---fpb_corr
---strength
---width
--exp_wf_table/
---binz
---mz
---sdz
---wf_table1
---wf_table2
--gtx/
---dead_time
---strong_weak
---wf_table_select
+- orientation
+- CAL19/
+- --dead_time
+- --fpb_corr
+- --strength
+- --width
+- exp_wf_table/
+- --binz
+- --mz
+- --sdz
+- --wf_table1
+- --wf_table2
+- gtx/
+- --dead_time
+- --strong_weak
+- --wf_table_select
 
 
 Sample execution:
